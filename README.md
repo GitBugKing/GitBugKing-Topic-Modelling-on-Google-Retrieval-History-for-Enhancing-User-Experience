@@ -6,4 +6,3 @@ This is the repository for the MSc project researched by Zheng Liu and supervise
 0. Requirments note (this file, aka, readme.md);
 1. Document (such as literature review and final report);
 2. Code (versioning)
-3. Issue tracking (GitHub issues)
