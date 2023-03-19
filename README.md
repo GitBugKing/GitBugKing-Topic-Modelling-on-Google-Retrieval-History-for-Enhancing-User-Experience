@@ -5,9 +5,10 @@ Date: 07/2022 - 09/2022
 Summary: 2022 MSc graduation project in UoN which is a research about NLP.
 
 This is the repository for the MSc project researched by Zheng Liu and supervised by Kai Xu in summer 2022. File structure is described as followed:  
+
 0. Requirments note (this file, aka, readme.md);  
 1. Document (such as literature review and final report);  
-2. Code (versioning)  
+2. Code (versioning)
 
 The project developed on conda kernel - Python 3.9.16 and all dependencies are following.
 
