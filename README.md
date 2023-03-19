@@ -23,7 +23,7 @@ The project developed on conda kernel - Python 3.9.16 and all dependencies are f
 | warnings | built-in | Warnings provided situations that aren’t necessarily exceptions. |
 | requests | 2.28.2 | Requests allows you to send HTTP/1.1 requests extremely easily. |
 | BeautifulSoup | 4.11.2 | scrape information from web pages. |
-| lxml | 4.9.2 | lxml is a Python library which allows for easy handling of XML and HTML files, and can also be used for web scraping. |
+| lxml | 4.9.2 | easy handling of XML and HTML files, and can also be used for web scraping. |
 | urllib3 | 1.26.15 | urllib3 is a powerful, user-friendly HTTP client for Python. |
 | re | built-in | regular expression matching operations. |
 | gensim | 4.3.1 | Python library for topic modelling, document indexing and similarity retrieval with large corpora. |
