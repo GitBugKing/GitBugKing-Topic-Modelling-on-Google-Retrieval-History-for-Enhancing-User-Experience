@@ -12,8 +12,8 @@ This is the repository for the MSc project researched by Zheng Liu and supervise
 
 The project developed on conda kernel - Python 3.9.16 and all dependencies are following.
 
-|  pacakges   | version  | use |
-|  ----  | ----  | ---- |
+| pacakges | version | use |
+| ----  | ----  | ---- |
 | browserhistory | 0.1.2 | extract browser history from a user's local computer and write the data to csv files. |
 | sys | 5.9.4 | manipulate different parts of the Python runtime environment. |
 | sqlite3 | 3.40.1 | integrate the SQLite database with Python. |
@@ -30,3 +30,5 @@ The project developed on conda kernel - Python 3.9.16 and all dependencies are f
 | spacy | 3.5.1 | advanced natural language processing. |
 | matplotlib | 3.7.1 | creating static, animated, and interactive visualizations. |
 
+Project Introduction:  
+The whole project is a Sensemaking project which is aming to develop a Google Chrome extension for enhancing user retrieval experience. The research of whold Sensemaking project could be seperated as front-end and back-end parts. 
