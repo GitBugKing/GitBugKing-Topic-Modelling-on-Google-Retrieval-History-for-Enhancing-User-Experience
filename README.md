@@ -28,8 +28,7 @@ The project developed on conda kernel - Python 3.9.16 and all dependencies are f
 | re | built-in | regular expression matching operations. |
 | gensim | 4.3.1 | Python library for topic modelling, document indexing and similarity retrieval with large corpora. |
 | spacy | 3.5.1 | advanced natural language processing. |
-| matplotlib | 3.7.1 | creating static, animated, and interactive visualizations. |
-
+| matplotlib | 3.7.1 | creating static, animated, and interactive visualizations. |  
 
 Project Introduction:  
 The whole project is a Sensemaking project which is aming to develop a Google Chrome extension for enhancing user retrieval experience. The research of whold Sensemaking project could be seperated as front-end and back-end parts. 
