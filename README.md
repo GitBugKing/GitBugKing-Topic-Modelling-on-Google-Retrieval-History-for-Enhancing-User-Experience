@@ -27,7 +27,6 @@ The project developed on conda kernel - Python 3.9.16 and all dependencies are f
 | urllib3 | 单元格 | urllib3 is a powerful, user-friendly HTTP client for Python. |
 | re | 单元格 | regular expression matching operations. |
 | gensim | 单元格 | Python library for topic modelling, document indexing and similarity retrieval with large corpora. |
-| spacy | 单元格 | advanced natural language processing |
-| matplotlib | 单元格 | 2 |
-| seaborn | 单元格 | 2 |
+| spacy | 单元格 | advanced natural language processing， |
+| matplotlib | 单元格 | creating static, animated, and interactive visualizations。 |
 
