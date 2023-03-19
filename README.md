@@ -1,7 +1,9 @@
 # GitBugKing-Topic-Modelling-on-Google-Retrieval-History-for-Enhancing-User-Experience
 
 Author: Zheng Liu
+
 Date: 07/2022 - 09/2022
+
 Summary: 2022 MSc graduation project in UoN which is a research about NLP.
 
 This is the repository for the MSc project researched by Zheng Liu and supervised by Kai Xu in summer 2022. File structure is described as followed:
