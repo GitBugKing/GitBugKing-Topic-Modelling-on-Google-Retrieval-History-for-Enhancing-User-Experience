@@ -2,7 +2,7 @@
 
 Author: Zheng Liu  
 Date: 07/2022 - 09/2022  
-Summary: 2022 MSc graduation project in UoN which is a research about NLP.
+Summary: 2022 MSc graduation project in UoN which is a research about NLP, specially on Topic Modelling.
 
 This is the repository for the MSc project researched by Zheng Liu and supervised by Kai Xu in summer 2022. File structure is described as followed:  
 
@@ -27,6 +27,6 @@ The project developed on conda kernel - Python 3.9.16 and all dependencies are f
 | urllib3 | 1.26.15 | urllib3 is a powerful, user-friendly HTTP client for Python. |
 | re | built-in | regular expression matching operations. |
 | gensim | 4.3.1 | Python library for topic modelling, document indexing and similarity retrieval with large corpora. |
-| spacy | 3.5.1 | advanced natural language processing， |
-| matplotlib | 3.7.1 | creating static, animated, and interactive visualizations。 |
+| spacy | 3.5.1 | advanced natural language processing. |
+| matplotlib | 3.7.1 | creating static, animated, and interactive visualizations. |
 
