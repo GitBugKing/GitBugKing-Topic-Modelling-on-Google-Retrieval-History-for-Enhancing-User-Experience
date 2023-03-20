@@ -13,6 +13,10 @@ This is the repository for the MSc project researched by Zheng Liu and supervise
 Project Introduction:  
 The whole project is a Sensemaking project which is aming to develop a Google Chrome extension for enhancing user retrieval experience. The extension will capture the links user explored and provide service like Visualization, Analysis and Recommendation depending on links. The research of whole Sensemaking project could be seperated as front-end and back-end parts. The members took responsiblity for front-end researched different ways for visualizing user exploration in real-time after opening the extension. The importance of my back-end technology in this Sensemaking project is analysing the exploration history from the moment user opening the extension until stopping exploration, the user tick the button for sending the order of searching history analysis. In the future, after accumulating the analysis results for a period of time, the links are labeled, then relevant recommendations can be made from specific Google resources.
 
+Tech Details:
+First of all, getting links from Chrome browser history database file and writting all in a csv file that contain the browser history on
+    the name of browsers the program detects.
+
 The project developed on conda kernel - Python 3.9.16 and all dependencies are following.
 
 | pacakges | version | use |
