@@ -10,6 +10,9 @@ This is the repository for the MSc project researched by Zheng Liu and supervise
 1. Document (such as literature review and final report);  
 2. Code (versioning)
 
+Project Introduction:  
+The whole project is a Sensemaking project which is aming to develop a Google Chrome extension for enhancing user retrieval experience. The extension will capture the links user explored and provide service like Visualization, Analysis and Recommendation depending on links. The research of whole Sensemaking project could be seperated as front-end and back-end parts. The members took responsiblity for front-end researched different wats for visualizing user exploration in real-time after opening the extension. The importance of my back-end technology in this Sensemaking project is analysing the exploration history from the moment user opening the extension until stopping exploration, the user tick the button for sending the order of searching history analysis. In the future, after accumulating the analysis results for a period of time, the links are labeled, then relevant recommendations can be made from specific Google resources.
+
 The project developed on conda kernel - Python 3.9.16 and all dependencies are following.
 
 | pacakges | version | use |
@@ -30,5 +33,3 @@ The project developed on conda kernel - Python 3.9.16 and all dependencies are f
 | spacy | 3.5.1 | advanced natural language processing. |
 | matplotlib | 3.7.1 | creating static, animated, and interactive visualizations. |  
 
-Project Introduction:  
-The whole project is a Sensemaking project which is aming to develop a Google Chrome extension for enhancing user retrieval experience. The extension will capture the links user explored and provide service like Visualization, Analysis and Recommendation depending on links. The research of whole Sensemaking project could be seperated as front-end and back-end parts. The members took responsiblity for front-end researched different wats for visualizing user exploration in real-time after opening the extension. The importance of my back-end technology in this Sensemaking project is analysing the exploration history from the moment user opening the extension until stopping exploration, the user tick the button for sending the order of searching history analysis. In the future, after accumulating the analysis results for a period of time, the links are labeled, then relevant recommendations can be made from specific Google resources.
