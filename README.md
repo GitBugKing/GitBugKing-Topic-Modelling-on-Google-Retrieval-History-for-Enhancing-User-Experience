@@ -18,6 +18,7 @@ The whole project was developed in programming language Python and developer too
 
 Research Report:  
 The research report was written by latex, kind of MarkUp language.  
+
 Libiriy Usage:  
 The project developed on conda kernel - Python 3.9.16 and all dependencies are following.
 
